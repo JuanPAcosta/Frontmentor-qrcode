@@ -6,8 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/JuanPAcosta/Frontmentor-qrcode)
--   Live Site URL: [Add live site URL here](https://juanpacosta.github.io/Frontmentor-qrcode/)
+-   Solution URL: [https://github.com/JuanPAcosta/Frontmentor-qrcode](https://github.com/JuanPAcosta/Frontmentor-qrcode)
+-   Live Site URL: [https://juanpacosta.github.io/Frontmentor-qrcode/](https://juanpacosta.github.io/Frontmentor-qrcode/)
 
 ## My process
 
